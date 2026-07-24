@@ -163,3 +163,22 @@ Structure for all: **HOOK (0–2s) → TAKE → EVIDENCE → DEBATE-BAIT → SIG
 4. Add on-screen text (§4) + write caption (§3).
 5. Tight hashtags, own audio, post. End with a CTA (§6).
 6. Reply to early comments in the first 30 min (feeds the algorithm + builds community).
+
+---
+
+## 8. Cover image per post
+
+Every post needs a scroll-stopping cover. Produce two things:
+
+**(i) AI image prompt** — for a stylised cover/background (paste into your image tool). Keep it generic — AI garbles real faces, crests, and text:
+> "Dramatic football stadium at night, blaugrana deep-blue and garnet-red lighting, a lone silhouetted player, intense cinematic mood, bold empty space at top for a headline, high contrast, poster style."
+
+**(ii) Graphic brief** — for a Canva/Photoshop announcement edit (the polished transfer-graphic look like real edits):
+- **Headline** (≤6 words, e.g. "ADEYEMI — DONE DEAL")
+- **Subhead** (e.g. "€29m from Dortmund")
+- **Player to cut out** + **club**
+- **Colour scheme** (blaugrana red/blue + accent)
+
+Use real player photos + club crests *in the template* (Canva), not in AI generation. Keep the same font/layout every time so your covers are instantly recognisable as yours.
+
+**Build the reusable Canva template once** using the full spec (size, safe zones, hex codes, fonts, layer-by-layer build, 2-min daily reuse): see [CANVA-COVER-TEMPLATE.md](CANVA-COVER-TEMPLATE.md).
