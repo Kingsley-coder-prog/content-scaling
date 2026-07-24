@@ -1,0 +1,401 @@
+- generic [ref=f19e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f19e3]:
+    - generic [ref=f19e124]:
+      - generic [ref=f19e126]:
+        - link "Go to TikTok For You feed" [ref=f19e128] [cursor=pointer]:
+          - /url: /
+          - strong: TikTok
+        - searchbox "Search" [ref=f19e134] [cursor=pointer]
+      - generic [ref=f19e141]:
+        - generic [ref=f19e142]:
+          - link [ref=f19e144] [cursor=pointer]:
+            - /url: /
+            - listitem "For You" [ref=f19e145]
+          - link [ref=f19e153] [cursor=pointer]:
+            - /url: /explore
+            - listitem "Explore" [ref=f19e154]
+          - link [ref=f19e163] [cursor=pointer]:
+            - /url: /following
+            - listitem "Following" [ref=f19e164]
+          - link [ref=f19e174] [cursor=pointer]:
+            - /url: /live
+            - listitem "LIVE" [ref=f19e175]
+          - link [ref=f19e184] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&tab=video
+            - listitem "Upload" [ref=f19e185]
+          - link [ref=f19e194] [cursor=pointer]:
+            - /url: /@
+            - listitem "Profile" [ref=f19e195]
+          - listitem "More" [ref=f19e203] [cursor=pointer]
+        - button "Log in" [ref=f19e214] [cursor=pointer]
+    - generic [ref=f19e35]:
+      - generic [ref=f19e36]:
+        - generic [ref=f19e37]:
+          - generic [ref=f19e41]:
+            - generic [ref=f19e42]:
+              - generic [ref=f19e44]:
+                - heading "Adika" [level=1] [ref=f19e46]
+                - heading "adika.s.takes" [level=2] [ref=f19e48]
+              - heading "415 Following 1.8M Followers 194.3M Likes" [level=3] [ref=f19e49]:
+                - generic [ref=f19e50] [cursor=pointer]:
+                  - strong [ref=f19e51]: "415"
+                  - generic [ref=f19e52]: Following
+                - generic [ref=f19e53] [cursor=pointer]:
+                  - strong [ref=f19e54]: 1.8M
+                  - generic [ref=f19e55]: Followers
+                - generic [ref=f19e56]:
+                  - strong [ref=f19e57]: 194.3M
+                  - generic [ref=f19e58]: Likes
+            - generic [ref=f19e217]:
+              - button "Follow Adika" [ref=f19e219] [cursor=pointer]:
+                - generic [ref=f19e220]: Follow
+              - link [ref=f19e224] [cursor=pointer]:
+                - /url: /@adika.s.takes
+                - button "Message" [ref=f19e226]
+              - button "Suggested accounts" [ref=f19e232] [cursor=pointer]
+              - button "Share" [ref=f19e239] [cursor=pointer]
+              - button "Actions" [ref=f19e246] [cursor=pointer]
+            - generic [ref=f19e64]:
+              - heading "Get your original quality jerseys 👇🏿 FOR BUSINESS ONLY 📧:adikawebservices@gmail.com" [level=2] [ref=f19e65]
+              - link "adikastakes.store" [ref=f19e67] [cursor=pointer]:
+                - /url: https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=https%3A%2F%2Fadikastakes.store
+          - generic:
+            - button "Actions"
+        - generic [ref=f19e252]:
+          - generic [ref=f19e253]:
+            - paragraph [ref=f19e255] [cursor=pointer]: Suggested accounts
+            - button "View All" [ref=f19e258] [cursor=pointer]:
+              - paragraph [ref=f19e259]: View all
+          - generic [ref=f19e260]:
+            - generic [ref=f19e261]:
+              - link [ref=f19e262] [cursor=pointer]:
+                - /url: /@andrewemily16
+                - img "Avatar for andrewemily16" [ref=f19e264]
+              - generic [ref=f19e266]:
+                - link [ref=f19e268] [cursor=pointer]:
+                  - /url: /@andrewemily16
+                  - paragraph [ref=f19e270]: alex
+                - paragraph [ref=f19e273] [cursor=pointer]: 18.4M followers
+              - button "Follow alex" [ref=f19e276] [cursor=pointer]:
+                - generic [ref=f19e277]: Follow
+            - generic [ref=f19e281]:
+              - link [ref=f19e282] [cursor=pointer]:
+                - /url: /@purplespeedy
+                - img "Avatar for purplespeedy" [ref=f19e284]
+              - generic [ref=f19e286]:
+                - link [ref=f19e288] [cursor=pointer]:
+                  - /url: /@purplespeedy
+                  - paragraph [ref=f19e290]: Speedy💜🌹
+                - paragraph [ref=f19e297] [cursor=pointer]: 18M followers
+              - button "Follow Speedy💜🌹" [ref=f19e300] [cursor=pointer]:
+                - generic [ref=f19e301]: Follow
+            - generic [ref=f19e305]:
+              - link [ref=f19e306] [cursor=pointer]:
+                - /url: /@ebuka.hero
+                - img "Avatar for ebuka.hero" [ref=f19e308]
+              - generic [ref=f19e310]:
+                - link [ref=f19e312] [cursor=pointer]:
+                  - /url: /@ebuka.hero
+                  - paragraph [ref=f19e314]: Ebuka Hero
+                - paragraph [ref=f19e317] [cursor=pointer]: 15.8M followers
+              - button "Follow Ebuka Hero" [ref=f19e320] [cursor=pointer]:
+                - generic [ref=f19e321]: Follow
+            - generic [ref=f19e325]:
+              - link [ref=f19e326] [cursor=pointer]:
+                - /url: /@realpeller
+                - img "Avatar for realpeller" [ref=f19e328]
+              - generic [ref=f19e330]:
+                - link [ref=f19e332] [cursor=pointer]:
+                  - /url: /@realpeller
+                  - paragraph [ref=f19e334]: ₱ɆⱠⱠɆⱤ
+                - paragraph [ref=f19e341] [cursor=pointer]: 15.8M followers
+              - button "Follow ₱ɆⱠⱠɆⱤ" [ref=f19e344] [cursor=pointer]:
+                - generic [ref=f19e345]: Follow
+            - generic [ref=f19e349]:
+              - link [ref=f19e350] [cursor=pointer]:
+                - /url: /@crispdal
+                - img "Avatar for crispdal" [ref=f19e352]
+              - generic [ref=f19e354]:
+                - link [ref=f19e356] [cursor=pointer]:
+                  - /url: /@crispdal
+                  - paragraph [ref=f19e358]: Crispdal
+                - paragraph [ref=f19e365] [cursor=pointer]: 13.5M followers
+              - button "Follow Crispdal" [ref=f19e368] [cursor=pointer]:
+                - generic [ref=f19e369]: Follow
+            - generic [ref=f19e373]:
+              - link [ref=f19e374] [cursor=pointer]:
+                - /url: /@youngalajerh8
+                - img "Avatar for youngalajerh8" [ref=f19e376]
+              - generic [ref=f19e378]:
+                - link [ref=f19e380] [cursor=pointer]:
+                  - /url: /@youngalajerh8
+                  - paragraph [ref=f19e382]: Young Alajerh ✨💸
+                - paragraph [ref=f19e389] [cursor=pointer]: 12.8M followers
+              - button "Follow Young Alajerh ✨💸" [ref=f19e392] [cursor=pointer]:
+                - generic [ref=f19e393]: Follow
+            - generic [ref=f19e397]:
+              - link [ref=f19e398] [cursor=pointer]:
+                - /url: /@blackchully3
+                - img "Avatar for blackchully3" [ref=f19e400]
+              - generic [ref=f19e402]:
+                - link [ref=f19e404] [cursor=pointer]:
+                  - /url: /@blackchully3
+                  - paragraph [ref=f19e406]: Blackchully scorpion
+                - paragraph [ref=f19e413] [cursor=pointer]: 12.5M followers
+              - button "Follow Blackchully scorpion" [ref=f19e416] [cursor=pointer]:
+                - generic [ref=f19e417]: Follow
+            - generic [ref=f19e421]:
+              - link [ref=f19e422] [cursor=pointer]:
+                - /url: /@afroblueries
+                - img "Avatar for afroblueries" [ref=f19e424]
+              - generic [ref=f19e426]:
+                - link [ref=f19e428] [cursor=pointer]:
+                  - /url: /@afroblueries
+                  - paragraph [ref=f19e430]: afroblueries
+                - paragraph [ref=f19e433] [cursor=pointer]: 12.4M followers
+              - button "Follow afroblueries" [ref=f19e436] [cursor=pointer]:
+                - generic [ref=f19e437]: Follow
+            - generic [ref=f19e441]:
+              - link [ref=f19e442] [cursor=pointer]:
+                - /url: /@brainjotter
+                - img "Avatar for brainjotter" [ref=f19e444]
+              - generic [ref=f19e446]:
+                - link [ref=f19e448] [cursor=pointer]:
+                  - /url: /@brainjotter
+                  - paragraph [ref=f19e450]: Chukwuebuka
+                - paragraph [ref=f19e457] [cursor=pointer]: 12.1M followers
+              - button "Follow Chukwuebuka" [ref=f19e460] [cursor=pointer]:
+                - generic [ref=f19e461]: Follow
+            - generic [ref=f19e465]:
+              - link [ref=f19e466] [cursor=pointer]:
+                - /url: /@machigoldpranks_
+                - img "Avatar for machigoldpranks_" [ref=f19e468]
+              - generic [ref=f19e470]:
+                - link [ref=f19e472] [cursor=pointer]:
+                  - /url: /@machigoldpranks_
+                  - paragraph [ref=f19e474]: MACHIGOLDPRANKS
+                - paragraph [ref=f19e481] [cursor=pointer]: 11.8M followers
+              - button "Follow MACHIGOLDPRANKS" [ref=f19e484] [cursor=pointer]:
+                - generic [ref=f19e485]: Follow
+            - generic [ref=f19e489]:
+              - link [ref=f19e490] [cursor=pointer]:
+                - /url: /@annie.koncept8
+                - img "Avatar for annie.koncept8" [ref=f19e492]
+              - generic [ref=f19e494]:
+                - link [ref=f19e496] [cursor=pointer]:
+                  - /url: /@annie.koncept8
+                  - paragraph [ref=f19e498]: ANNIE KONCEPT
+                - paragraph [ref=f19e501] [cursor=pointer]: 11.3M followers
+              - button "Follow ANNIE KONCEPT" [ref=f19e504] [cursor=pointer]:
+                - generic [ref=f19e505]: Follow
+            - generic [ref=f19e509]:
+              - link [ref=f19e510] [cursor=pointer]:
+                - /url: /@ebuka.hero306
+                - img "Avatar for ebuka.hero306" [ref=f19e512]
+              - generic [ref=f19e514]:
+                - link [ref=f19e516] [cursor=pointer]:
+                  - /url: /@ebuka.hero306
+                  - paragraph [ref=f19e518]: Ebuka Hero
+                - paragraph [ref=f19e521] [cursor=pointer]: 11.2M followers
+              - button "Follow Ebuka Hero" [ref=f19e524] [cursor=pointer]:
+                - generic [ref=f19e525]: Follow
+            - generic [ref=f19e529]:
+              - link [ref=f19e530] [cursor=pointer]:
+                - /url: /@berby_picxy
+                - img "Avatar for berby_picxy" [ref=f19e532]
+              - generic [ref=f19e534]:
+                - link [ref=f19e536] [cursor=pointer]:
+                  - /url: /@berby_picxy
+                  - paragraph [ref=f19e538]: 𝕭𝖊𝖗𝖇𝖞 𝙥𝙞𝙘𝙭𝙮 💫 ♕ ♡
+                - paragraph [ref=f19e545] [cursor=pointer]: 10.7M followers
+              - button "Follow 𝕭𝖊𝖗𝖇𝖞 𝙥𝙞𝙘𝙭𝙮 💫 ♕ ♡" [ref=f19e548] [cursor=pointer]:
+                - generic [ref=f19e549]: Follow
+            - generic [ref=f19e553]:
+              - link [ref=f19e554] [cursor=pointer]:
+                - /url: /@ifeanyi.oleka.fam
+                - img "Avatar for ifeanyi.oleka.fam" [ref=f19e556]
+              - generic [ref=f19e558]:
+                - link [ref=f19e560] [cursor=pointer]:
+                  - /url: /@ifeanyi.oleka.fam
+                  - paragraph [ref=f19e562]: Ifeanyi Oleka movies
+                - paragraph [ref=f19e565] [cursor=pointer]: 10.7M followers
+              - button "Follow Ifeanyi Oleka movies" [ref=f19e568] [cursor=pointer]:
+                - generic [ref=f19e569]: Follow
+            - generic [ref=f19e573]:
+              - link [ref=f19e574] [cursor=pointer]:
+                - /url: /@jombospice
+                - img "Avatar for jombospice" [ref=f19e576]
+              - generic [ref=f19e578]:
+                - link [ref=f19e580] [cursor=pointer]:
+                  - /url: /@jombospice
+                  - paragraph [ref=f19e582]: user71114863843
+                - paragraph [ref=f19e585] [cursor=pointer]: 10.6M followers
+              - button "Follow user71114863843" [ref=f19e588] [cursor=pointer]:
+                - generic [ref=f19e589]: Follow
+            - generic [ref=f19e593]:
+              - link [ref=f19e594] [cursor=pointer]:
+                - /url: /@realjadrolita
+                - img "Avatar for realjadrolita" [ref=f19e596]
+              - generic [ref=f19e598]:
+                - link [ref=f19e600] [cursor=pointer]:
+                  - /url: /@realjadrolita
+                  - paragraph [ref=f19e602]: JARVIS AI
+                - paragraph [ref=f19e609] [cursor=pointer]: 10.1M followers
+              - button "Follow JARVIS AI" [ref=f19e612] [cursor=pointer]:
+                - generic [ref=f19e613]: Follow
+            - generic [ref=f19e617]:
+              - link [ref=f19e618] [cursor=pointer]:
+                - /url: /@romantikeyerealitytv
+                - img "Avatar for romantikeyerealitytv" [ref=f19e620]
+              - generic [ref=f19e622]:
+                - link [ref=f19e624] [cursor=pointer]:
+                  - /url: /@romantikeyerealitytv
+                  - paragraph [ref=f19e626]: Romantik Eye Reality TV
+                - paragraph [ref=f19e629] [cursor=pointer]: 9.9M followers
+              - button "Follow Romantik Eye Reality TV" [ref=f19e632] [cursor=pointer]:
+                - generic [ref=f19e633]: Follow
+            - generic [ref=f19e637]:
+              - link [ref=f19e638] [cursor=pointer]:
+                - /url: /@skinycomics
+                - img "Avatar for skinycomics" [ref=f19e640]
+              - generic [ref=f19e642]:
+                - link [ref=f19e644] [cursor=pointer]:
+                  - /url: /@skinycomics
+                  - paragraph [ref=f19e646]: Skinycomics
+                - paragraph [ref=f19e653] [cursor=pointer]: 9.7M followers
+              - button "Follow Skinycomics" [ref=f19e656] [cursor=pointer]:
+                - generic [ref=f19e657]: Follow
+            - generic [ref=f19e661]:
+              - link [ref=f19e662] [cursor=pointer]:
+                - /url: /@samskid_
+                - img "Avatar for samskid_" [ref=f19e664]
+              - generic [ref=f19e666]:
+                - link [ref=f19e668] [cursor=pointer]:
+                  - /url: /@samskid_
+                  - paragraph [ref=f19e670]: Samskid 💀
+                - paragraph [ref=f19e677] [cursor=pointer]: 9.5M followers
+              - button "Follow Samskid 💀" [ref=f19e680] [cursor=pointer]:
+                - generic [ref=f19e681]: Follow
+            - generic [ref=f19e685]:
+              - link [ref=f19e686] [cursor=pointer]:
+                - /url: /@officialemanuella
+                - img "Avatar for officialemanuella" [ref=f19e688]
+              - generic [ref=f19e690]:
+                - link [ref=f19e692] [cursor=pointer]:
+                  - /url: /@officialemanuella
+                  - paragraph [ref=f19e694]: Emanuella
+                - paragraph [ref=f19e701] [cursor=pointer]: 9.3M followers
+              - button "Follow Emanuella" [ref=f19e704] [cursor=pointer]:
+                - generic [ref=f19e705]: Follow
+      - generic [ref=f19e72]:
+        - generic [ref=f19e714]:
+          - generic [ref=f19e715]:
+            - tab "Videos" [selected] [ref=f19e716] [cursor=pointer]
+            - tab "Reposts" [ref=f19e720] [cursor=pointer]
+            - tab "Liked" [ref=f19e724] [cursor=pointer]
+          - generic [ref=f19e730]:
+            - button "Latest" [ref=f19e731] [cursor=pointer]
+            - button "Popular" [ref=f19e734] [cursor=pointer]
+            - button "Oldest" [ref=f19e737] [cursor=pointer]
+        - generic [ref=f19e741]:
+          - button "Watch in full screen" [ref=f19e743] [cursor=pointer]:
+            - link [ref=f19e746]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7665825225329675528
+              - generic [ref=f19e747]:
+                - img "Bruno Fernandes is unarguably the biggest FLOP of the 2026 World Cup. How can the best player from the best league in the world come to the World Cup and leave with 1 assist against Uzbekistan? Embarrassing! created by Adika with Adika’s original sound" [ref=f19e751]
+                - strong [ref=f19e757]: 144.8K
+          - button "Watch in full screen" [ref=f19e759] [cursor=pointer]:
+            - link [ref=f19e762]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7665680392267107592
+              - generic [ref=f19e763]:
+                - img "This is the most disappointing XI of the 2026 World Cup. It might pain you, but I speak factsz created by Adika with Adika’s original sound" [ref=f19e767]
+                - strong [ref=f19e771]: 426.1K
+          - button "Watch in full screen" [ref=f19e773] [cursor=pointer]:
+            - link [ref=f19e776]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7665631314468441364
+              - generic [ref=f19e777]:
+                - 'img "While all of us were focused on the World Cup, Como was making dangerous moves and now with the Como Cup coming up, I expect @comofootball1907 to be fully ready for the UCL next season. #comocup2026 created by Adika with Adika’s original sound - Adika" [ref=f19e781]'
+                - strong [ref=f19e785]: 423K
+          - button "Watch in full screen" [ref=f19e787] [cursor=pointer]:
+            - link [ref=f19e790]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7665323376583445767
+              - generic [ref=f19e791]:
+                - img "This is the Best XI of 2026 FIFA World Cup. No bias or sentiments, just straight facts! created by Adika with Adika’s original sound" [ref=f19e795]
+                - strong [ref=f19e799]: 549K
+          - button "Watch in full screen" [ref=f19e801] [cursor=pointer]:
+            - link [ref=f19e804]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7665040741130947858
+              - generic [ref=f19e805]:
+                - img "Xabi Alonso is the main reason Rogers picked Chelsea over Arsenal. Alonso has shown that having a reputable manager can change the fortunes of your club because pulling a player away from the Premier League champions after finishing in 10th place is madness!!! created by Adika with Adika’s original sound" [ref=f19e809]
+                - strong [ref=f19e813]: 220.8K
+          - button "Watch in full screen" [ref=f19e815] [cursor=pointer]:
+            - link [ref=f19e818]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664935219383815432
+              - generic [ref=f19e819]:
+                - img "🚨Rodri wants to join Real Madrid but Florentino Perez is blocking the move. Perez is one Real Madrid’s biggest problems right now. How can you have a chance to sign the best midfielder in the world and reject it??? created by Adika with Adika’s original sound" [ref=f19e823]
+                - strong [ref=f19e827]: 369.9K
+          - button "Watch in full screen" [ref=f19e829] [cursor=pointer]:
+            - link [ref=f19e832]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664915220619332871
+              - generic [ref=f19e833]:
+                - img "Vini Jr got a Chin Harmonization surgery and his face now has new look. It looks like the bullying and racism got to him💔😞 created by Adika with Adika’s original sound" [ref=f19e837]
+                - strong [ref=f19e841]: 2.2M
+          - button "Watch in full screen" [ref=f19e843] [cursor=pointer]:
+            - link [ref=f19e846]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664700249448975624
+              - generic [ref=f19e847]:
+                - img "Lamine Yamal is not the clear favorite for the Ballon D’or, please don’t fall for the propaganda. His World Cup was not good enough to make him a clear favorite, he is definitely a candidate but there players who has better individual club season and World Cup campaigns than him. created by Adika with Adika’s original sound" [ref=f19e851]
+                - strong [ref=f19e855]: 728.6K
+          - button "Watch in full screen" [ref=f19e857] [cursor=pointer]:
+            - link [ref=f19e860]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664662835905088786
+              - generic [ref=f19e861]:
+                - img "I pray Barcelona never wins the UCL because how can one club produce Messi, Yamal and now Cubarsi all for free? It’s not fair!! Players that cost €150m Barcelona keep getting them for free. I am Jealous 😡 created by Adika with Adika’s original sound" [ref=f19e865]
+                - strong [ref=f19e869]: 709.4K
+          - button "Watch in full screen" [ref=f19e871] [cursor=pointer]:
+            - link [ref=f19e874]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664640407531261204
+              - generic [ref=f19e875]:
+                - img "All we wanted for Messi was one Copa America and now we are sad that he can’t win back to back World Cups. We have come so far that we have forgotten where we came from. created by Adika with Adika’s original sound" [ref=f19e879]
+                - strong [ref=f19e883]: 256.6K
+          - button "Watch in full screen" [ref=f19e885] [cursor=pointer]:
+            - link [ref=f19e888]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664508079240760597
+              - generic [ref=f19e889]:
+                - img "Rodri deserved the World Cup golden ball. He’s not just the best midfielder in the world but one of the greatest midfielders ever! Infact he’s in the debate for greatest defensive midfielder of all time and he might be leading! created by Adika with Adika’s original sound" [ref=f19e893]
+                - strong [ref=f19e897]: 1.1M
+          - button "Watch in full screen" [ref=f19e899] [cursor=pointer]:
+            - link [ref=f19e902]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664391986715168018
+              - generic [ref=f19e903]:
+                - img "If you are celebrating Messi crying tonight, just know that you celebrating a 39 year old MLS player coming to World Cup and outperforming all the big football superstars in their prime. Messi there is nothing to cry about, you did 1 million times more than any Messi fan thought you’ll do in this World Cup. Thank you for everything the Greatest of all time ❤️ created by Adika with Adika’s original sound" [ref=f19e907]
+                - strong [ref=f19e911]: 584.3K
+          - button "Watch in full screen" [ref=f19e913] [cursor=pointer]:
+            - link [ref=f19e916]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664381845772995847
+              - generic [ref=f19e917]:
+                - img "I’m totally heartbroken💔, Messi’s last World Cup game ends in defeat. First it was Mbappe and Now Messi, this has been one of the worst weeks of football for me. Congratulations to Spain, they deserved it unfortunately created by Adika with Adika’s original sound" [ref=f19e921]
+                - strong [ref=f19e925]: 432.9K
+          - button "Watch in full screen" [ref=f19e927] [cursor=pointer]:
+            - link [ref=f19e930]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664284498258906376
+              - generic [ref=f19e931]:
+                - 'img "Lionel Messi please save football today!!!! With just N6k you can watch all World Cup games on Dtv stream. Download the Dstv Stream app and get the N6k Yanga package! You don’t need any decoder or dish, just a phone to stream any game at any place and any time! @DStv Nigeria @GOtv (NG) #EverythingCanWait created by Adika with Adika’s original sound" [ref=f19e935]'
+                - strong [ref=f19e939]: 382.7K
+          - button "Watch in full screen" [ref=f19e941] [cursor=pointer]:
+            - link [ref=f19e944]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664248539135986964
+              - generic [ref=f19e945]:
+                - img "Messi bathed Yamal as an infant and now they are playing each other in the World Cup final. You cannot convince this whole life is not scripted . This is probably the Greatest World Cup final of all time when it comes to narratives. Buy, Scan and win amazing prizes with Budweiser this Worldcup season. Follow Budweiser for more details etc created by Adika with Adika’s original sound" [ref=f19e949]
+                - strong [ref=f19e953]: 236.2K
+          - button "Watch in full screen" [ref=f19e955] [cursor=pointer]:
+            - link [ref=f19e958]:
+              - /url: https://www.tiktok.com/@adika.s.takes/video/7664235936724618517
+              - generic [ref=f19e959]:
+                - img "The wheel of the football gods has predicted who will win the World Cup and it has never been wrong. Argentina vs Spain, who do you think will win? created by Adika with Adika’s original sound" [ref=f19e963]
+                - strong [ref=f19e967]: 263.4K
+    - generic [ref=f19e103]:
+      - button [ref=f19e106] [cursor=pointer]
+      - button [ref=f19e113] [cursor=pointer]
+      - button "Log in" [ref=f19e120] [cursor=pointer]

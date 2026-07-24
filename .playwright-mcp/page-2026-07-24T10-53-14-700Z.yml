@@ -1,0 +1,200 @@
+- generic [ref=f37e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f37e3]:
+    - generic [ref=f37e124]:
+      - generic [ref=f37e126]:
+        - link "Go to TikTok For You feed" [ref=f37e128] [cursor=pointer]:
+          - /url: /
+          - strong: TikTok
+        - searchbox "Search" [ref=f37e134] [cursor=pointer]
+      - generic [ref=f37e141]:
+        - generic [ref=f37e142]:
+          - link [ref=f37e144] [cursor=pointer]:
+            - /url: /
+            - listitem "For You" [ref=f37e145]
+          - link [ref=f37e153] [cursor=pointer]:
+            - /url: /explore
+            - listitem "Explore" [ref=f37e154]
+          - link [ref=f37e163] [cursor=pointer]:
+            - /url: /following
+            - listitem "Following" [ref=f37e164]
+          - link [ref=f37e174] [cursor=pointer]:
+            - /url: /live
+            - listitem "LIVE" [ref=f37e175]
+          - link [ref=f37e184] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&tab=video
+            - listitem "Upload" [ref=f37e185]
+          - link [ref=f37e194] [cursor=pointer]:
+            - /url: /@
+            - listitem "Profile" [ref=f37e195]
+          - listitem "More" [ref=f37e203] [cursor=pointer]
+        - button "Log in" [ref=f37e214] [cursor=pointer]
+    - generic [ref=f37e35]:
+      - generic [ref=f37e36]:
+        - generic [ref=f37e37]:
+          - img "Avatar for berneese_" [ref=f37e218] [cursor=pointer]
+          - generic [ref=f37e41]:
+            - generic [ref=f37e42]:
+              - generic [ref=f37e44]:
+                - heading "berneese_" [level=1] [ref=f37e46]
+                - heading "berneese_" [level=2] [ref=f37e48]
+              - heading "148 Following 1.9M Followers 90.2M Likes" [level=3] [ref=f37e49]:
+                - generic [ref=f37e50] [cursor=pointer]:
+                  - strong [ref=f37e51]: "148"
+                  - generic [ref=f37e52]: Following
+                - generic [ref=f37e53] [cursor=pointer]:
+                  - strong [ref=f37e54]: 1.9M
+                  - generic [ref=f37e55]: Followers
+                - generic [ref=f37e56]:
+                  - strong [ref=f37e57]: 90.2M
+                  - generic [ref=f37e58]: Likes
+            - generic [ref=f37e219]:
+              - button "Follow berneese_" [ref=f37e221] [cursor=pointer]:
+                - generic [ref=f37e222]: Follow
+              - link [ref=f37e226] [cursor=pointer]:
+                - /url: /@berneese_
+                - button "Message" [ref=f37e228]
+              - button "Suggested accounts" [ref=f37e234] [cursor=pointer]
+              - button "Share" [ref=f37e241] [cursor=pointer]
+              - button "Actions" [ref=f37e248] [cursor=pointer]
+            - generic [ref=f37e64]:
+              - 'heading "Travel and Football ✈️⚽️ Sports Content Creator Business: berneese6@gmail.com" [level=2] [ref=f37e65]'
+              - link "www.instagram.com/berneese_?igsh=Z2ptY25xa25iZnZi&utm_source=qr" [ref=f37e67] [cursor=pointer]:
+                - /url: https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=https%3A%2F%2Fwww.instagram.com%2Fberneese_%3Figsh%3DZ2ptY25xa25iZnZi%26utm_source%3Dqr
+          - generic:
+            - button "Actions"
+        - generic [ref=f37e255]:
+          - paragraph [ref=f37e257] [cursor=pointer]: Suggested accounts
+          - button "View All" [ref=f37e260] [cursor=pointer]:
+            - paragraph [ref=f37e261]: View all
+      - generic [ref=f37e72]:
+        - generic [ref=f37e264]:
+          - generic [ref=f37e265]:
+            - tab "Videos" [selected] [ref=f37e266] [cursor=pointer]
+            - tab "Liked" [ref=f37e270] [cursor=pointer]
+          - generic [ref=f37e276]:
+            - button "Latest" [ref=f37e277] [cursor=pointer]
+            - button "Popular" [ref=f37e280] [cursor=pointer]
+            - button "Oldest" [ref=f37e283] [cursor=pointer]
+        - generic [ref=f37e287]:
+          - button "Watch in full screen" [ref=f37e289] [cursor=pointer]:
+            - 'link "Had a moment with Victor Osimhen 🥹🧡❤️#galatasaray #turkey #osimhen #berneese created by berneese_ with berneese_’s original sound 1.4M Pinned" [ref=f37e292]':
+              - /url: https://www.tiktok.com/@berneese_/video/7633325895708724501
+              - generic [ref=f37e293]:
+                - 'img "Had a moment with Victor Osimhen 🥹🧡❤️#galatasaray #turkey #osimhen #berneese created by berneese_ with berneese_’s original sound" [ref=f37e297]'
+                - strong [ref=f37e303]: 1.4M
+              - generic [ref=f37e304]: Pinned
+          - button "Watch in full screen" [ref=f37e308] [cursor=pointer]:
+            - 'link "This is FC BARCELONA, remontada tomorrow!! #fcbarcelona #berneese created by berneese_ with 👑’s sonido original 1.4M Pinned" [ref=f37e311]':
+              - /url: https://www.tiktok.com/@berneese_/video/7628356197602610452
+              - generic [ref=f37e312]:
+                - 'img "This is FC BARCELONA, remontada tomorrow!! #fcbarcelona #berneese created by berneese_ with 👑’s sonido original" [ref=f37e316]'
+                - strong [ref=f37e320]: 1.4M
+              - generic [ref=f37e321]: Pinned
+          - button "Watch in full screen" [ref=f37e325] [cursor=pointer]:
+            - 'link "Real Madrid vs Bayern Munich fan interactions #realmadrid #bayern #berneese created by berneese_ with berneese_’s original sound 834.2K Pinned" [ref=f37e328]':
+              - /url: https://www.tiktok.com/@berneese_/video/7626000656322759954
+              - generic [ref=f37e329]:
+                - 'img "Real Madrid vs Bayern Munich fan interactions #realmadrid #bayern #berneese created by berneese_ with berneese_’s original sound" [ref=f37e333]'
+                - strong [ref=f37e337]: 834.2K
+              - generic [ref=f37e338]: Pinned
+          - button "Watch in full screen" [ref=f37e342] [cursor=pointer]:
+            - link [ref=f37e345]:
+              - /url: https://www.tiktok.com/@berneese_/video/7665715127869541652
+              - generic [ref=f37e346]:
+                - 'img "Frenkie de Jong could be out the whole season for FC Barcelona #frenkiedejong #fcbarcelona created by berneese_ with berneese_’s original sound" [ref=f37e350]'
+                - strong [ref=f37e354]: 78.3K
+          - button "Watch in full screen" [ref=f37e356] [cursor=pointer]:
+            - link [ref=f37e359]:
+              - /url: https://www.tiktok.com/@berneese_/video/7665426246909578517
+              - generic [ref=f37e360]:
+                - 'img "Barcelona wants Rodri, Rodri wants Real Madrid, Real Madrid does not want Rodri 😭😭 #rodri #fcbarcelona #realmadrid #fifaworldcup #worldcup2026 created by berneese_ with berneese_’s original sound" [ref=f37e364]'
+                - strong [ref=f37e368]: 241.6K
+          - button "Watch in full screen" [ref=f37e370] [cursor=pointer]:
+            - link [ref=f37e373]:
+              - /url: https://www.tiktok.com/@berneese_/video/7665386308889627911
+              - generic [ref=f37e374]:
+                - 'img "People are never satisfied, regardless of everything Messi is still the Greatest player of all time #messi #argentina #fifaworldcup #worldcup2026 created by berneese_ with 🎶 music everyday 🎶’s original sound - 🎶 music everyday 🎶" [ref=f37e378]'
+                - strong [ref=f37e382]: 68.2K
+          - button "Watch in full screen" [ref=f37e384] [cursor=pointer]:
+            - link [ref=f37e387]:
+              - /url: https://www.tiktok.com/@berneese_/video/7665383450840435988
+              - generic [ref=f37e388]:
+                - 'img "Argentina Football Association has a lot on going #messi #argentina #fifaworldcup #worldcup2026 created by berneese_ with berneese_’s original sound" [ref=f37e392]'
+                - strong [ref=f37e396]: 243.6K
+          - button "Watch in full screen" [ref=f37e398] [cursor=pointer]:
+            - link [ref=f37e401]:
+              - /url: https://www.tiktok.com/@berneese_/video/7665122532969762069
+              - generic [ref=f37e402]:
+                - 'img "Everything about Argentina in the World Cup final is not adding up #messi #argentina #fifaworldcup #worldcup2026 created by berneese_ with Crystal Castles’s Transgender" [ref=f37e406]'
+                - strong [ref=f37e410]: 3.5M
+          - button "Watch in full screen" [ref=f37e412] [cursor=pointer]:
+            - link [ref=f37e415]:
+              - /url: https://www.tiktok.com/@berneese_/video/7665112748031872276
+              - generic [ref=f37e416]:
+                - 'img "Argentina may have given up the World Cup final due to these theories #messi #argentina #fifaworldcup #worldcup2026 created by berneese_ with Skittlegirl Sound’s Spooky, quiet, scary atmosphere piano songs" [ref=f37e420]'
+                - strong [ref=f37e424]: 454.1K
+          - button "Watch in full screen" [ref=f37e426] [cursor=pointer]:
+            - link [ref=f37e429]:
+              - /url: https://www.tiktok.com/@berneese_/video/7665102001306357012
+              - generic [ref=f37e430]:
+                - 'img "Argentina is rumored to have had something going on right before the World Cup final #messi #argentina #fifaworldcup #worldcup2026 created by berneese_ with Skittlegirl Sound’s Spooky, quiet, scary atmosphere piano songs" [ref=f37e434]'
+                - strong [ref=f37e438]: 633.5K
+          - button "Watch in full screen" [ref=f37e440] [cursor=pointer]:
+            - link [ref=f37e443]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664977438362930452
+              - generic [ref=f37e444]:
+                - 'img "Vini Junior got a chin harmonization surgery and he looks so different #vinicius created by berneese_ with 𝒦𝒾𝓇𝒶’s original sound" [ref=f37e448]'
+                - strong [ref=f37e452]: 367.2K
+          - button "Watch in full screen" [ref=f37e454] [cursor=pointer]:
+            - link [ref=f37e457]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664651958447312149
+              - generic [ref=f37e458]:
+                - 'img "Lionel Messi is the greatest of all time and nothing can change that #messi created by berneese_ with berneese_’s original sound" [ref=f37e462]'
+                - strong [ref=f37e466]: 99.1K
+          - button "Watch in full screen" [ref=f37e468] [cursor=pointer]:
+            - link [ref=f37e471]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664641772009655573
+              - generic [ref=f37e472]:
+                - 'img "Spain played highline throughout the World Cup but were not Vulnerable once, hope FC Barcelona takes a thing or two from it #spain #fcbarcelona #cubarsi #fifaworldcup #worldcup2026 created by berneese_ with berneese_’s original sound" [ref=f37e476]'
+                - strong [ref=f37e480]: 64.5K
+          - button "Watch in full screen" [ref=f37e482] [cursor=pointer]:
+            - link [ref=f37e485]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664390039949937941
+              - generic [ref=f37e486]:
+                - 'img "8 of my boys are World Champions, This is FC Barcelona #spain #fcbarcelona #fifaworldcup #worldcup2026 created by berneese_ with Bab Lee’s Sous les cocotiers" [ref=f37e490]'
+                - strong [ref=f37e494]: 173.9K
+          - button "Watch in full screen" [ref=f37e496] [cursor=pointer]:
+            - link [ref=f37e499]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664385139895504135
+              - generic [ref=f37e500]:
+                - 'img "Pau Cubarsi qualities at 19years is insane #spain #cubarsi #fifaworldcup #worldcup2026 created by berneese_ with berneese_’s original sound" [ref=f37e504]'
+                - strong [ref=f37e508]: 110.4K
+          - button "Watch in full screen" [ref=f37e510] [cursor=pointer]:
+            - link [ref=f37e513]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664377788941503764
+              - generic [ref=f37e514]:
+                - 'img "Messi deserved the Golden ball over Rodri #messi #rodri #spain #argentina #fifaworldcup created by berneese_ with berneese_’s original sound" [ref=f37e518]'
+                - strong [ref=f37e522]: 290K
+          - button "Watch in full screen" [ref=f37e524] [cursor=pointer]:
+            - link [ref=f37e527]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664373395030854932
+              - generic [ref=f37e528]:
+                - 'img "Thank you for everything Lionel Messi🥹❤️ #messi #argentina #fifaworldcup #worldcup2026 created by berneese_ with mangari_relax_experience’s audio originale" [ref=f37e532]'
+                - strong [ref=f37e536]: 737.5K
+          - button "Watch in full screen" [ref=f37e538] [cursor=pointer]:
+            - link [ref=f37e541]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664370256567143701
+              - generic [ref=f37e542]:
+                - 'img "Argentina had a very bad game against Spain in the World Cup final #spain #argentina #fifaworldcup #worldcup2026 created by berneese_ with berneese_’s original sound" [ref=f37e546]'
+                - strong [ref=f37e550]: 95.5K
+          - button "Watch in full screen" [ref=f37e552] [cursor=pointer]:
+            - link [ref=f37e555]:
+              - /url: https://www.tiktok.com/@berneese_/video/7664365636608544008
+              - generic [ref=f37e556]:
+                - 'img "Pedri has a World Cup, when you put yours on the table we will continue👍😂😂 #spain #pedri #bellingham #argentina #fifaworldcup created by berneese_ with Power of Passion Genies2Babi’s son original" [ref=f37e560]'
+                - strong [ref=f37e564]: 321.4K
+    - generic [ref=f37e103]:
+      - button [ref=f37e106] [cursor=pointer]
+      - button [ref=f37e113] [cursor=pointer]
+      - button "Log in" [ref=f37e120] [cursor=pointer]

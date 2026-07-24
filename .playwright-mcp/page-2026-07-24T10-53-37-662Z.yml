@@ -1,0 +1,24 @@
+- generic [ref=f46e8]:
+  - generic [ref=f46e42]:
+    - generic [ref=f46e46]:
+      - generic [ref=f46e47]:
+        - generic [ref=f46e49]:
+          - heading "bi_benard" [level=1] [ref=f46e51]
+          - heading "bi_benard" [level=2] [ref=f46e53]
+        - heading "69 Following 393.1K Followers 18.7M Likes" [level=3] [ref=f46e54]:
+          - generic [ref=f46e55] [cursor=pointer]:
+            - strong [ref=f46e56]: "69"
+            - generic [ref=f46e57]: Following
+          - generic [ref=f46e58] [cursor=pointer]:
+            - strong [ref=f46e59]: 393.1K
+            - generic [ref=f46e60]: Followers
+          - generic [ref=f46e61]:
+            - strong [ref=f46e62]: 18.7M
+            - generic [ref=f46e63]: Likes
+      - heading "No bio yet." [level=2] [ref=f46e70]
+    - generic:
+      - button "Actions"
+  - generic [ref=f46e102]:
+    - button [ref=f46e105] [cursor=pointer]
+    - button [ref=f46e112] [cursor=pointer]
+    - button "Log in" [ref=f46e119] [cursor=pointer]

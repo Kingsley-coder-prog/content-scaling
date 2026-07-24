@@ -1,0 +1,27 @@
+- generic [ref=f37e3]:
+  - generic [ref=f37e37]:
+    - generic [ref=f37e41]:
+      - generic [ref=f37e42]:
+        - generic [ref=f37e44]:
+          - heading "berneese_" [level=1] [ref=f37e46]
+          - heading "berneese_" [level=2] [ref=f37e48]
+        - heading "148 Following 1.9M Followers 90.2M Likes" [level=3] [ref=f37e49]:
+          - generic [ref=f37e50] [cursor=pointer]:
+            - strong [ref=f37e51]: "148"
+            - generic [ref=f37e52]: Following
+          - generic [ref=f37e53] [cursor=pointer]:
+            - strong [ref=f37e54]: 1.9M
+            - generic [ref=f37e55]: Followers
+          - generic [ref=f37e56]:
+            - strong [ref=f37e57]: 90.2M
+            - generic [ref=f37e58]: Likes
+      - generic [ref=f37e64]:
+        - 'heading "Travel and Football ✈️⚽️ Sports Content Creator Business: berneese6@gmail.com" [level=2] [ref=f37e65]'
+        - link "www.instagram.com/berneese_?igsh=Z2ptY25xa25iZnZi&utm_source=qr" [ref=f37e67] [cursor=pointer]:
+          - /url: https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=https%3A%2F%2Fwww.instagram.com%2Fberneese_%3Figsh%3DZ2ptY25xa25iZnZi%26utm_source%3Dqr
+    - generic:
+      - button "Actions"
+  - generic [ref=f37e103]:
+    - button [ref=f37e106] [cursor=pointer]
+    - button [ref=f37e113] [cursor=pointer]
+    - button "Log in" [ref=f37e120] [cursor=pointer]

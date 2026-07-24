@@ -1,0 +1,431 @@
+- generic [ref=f10e2]:
+  - region "Notifications alt+T"
+  - generic [ref=f10e3]:
+    - generic [ref=f10e5]:
+      - generic [ref=f10e7]:
+        - link "Go to TikTok For You feed" [ref=f10e9] [cursor=pointer]:
+          - /url: /
+          - strong: TikTok
+        - searchbox "Search" [ref=f10e15] [cursor=pointer]
+      - generic [ref=f10e22]:
+        - generic [ref=f10e23]:
+          - link [ref=f10e25] [cursor=pointer]:
+            - /url: /
+            - listitem "For You" [ref=f10e26]
+          - link [ref=f10e34] [cursor=pointer]:
+            - /url: /explore
+            - listitem "Explore" [ref=f10e35]
+          - link [ref=f10e44] [cursor=pointer]:
+            - /url: /following
+            - listitem "Following" [ref=f10e45]
+          - link [ref=f10e55] [cursor=pointer]:
+            - /url: /live
+            - listitem "LIVE" [ref=f10e56]
+          - link [ref=f10e65] [cursor=pointer]:
+            - /url: /tiktokstudio/upload?from=webapp&tab=video
+            - listitem "Upload" [ref=f10e66]
+          - link [ref=f10e75] [cursor=pointer]:
+            - /url: /@
+            - listitem "Profile" [ref=f10e76]
+          - listitem "More" [ref=f10e84] [cursor=pointer]
+        - button "Log in" [ref=f10e95] [cursor=pointer]
+    - generic [ref=f10e100]:
+      - generic [ref=f10e101]:
+        - generic [ref=f10e102]:
+          - generic [ref=f10e106]:
+            - generic [ref=f10e107]:
+              - generic [ref=f10e109]:
+                - heading "KOMBO" [level=1] [ref=f10e111]
+                - heading "ultimatekombo2" [level=2] [ref=f10e113]
+              - heading "581 Following 3.1M Followers 403M Likes" [level=3] [ref=f10e114]:
+                - generic [ref=f10e115] [cursor=pointer]:
+                  - strong [ref=f10e116]: "581"
+                  - generic [ref=f10e117]: Following
+                - generic [ref=f10e118] [cursor=pointer]:
+                  - strong [ref=f10e119]: 3.1M
+                  - generic [ref=f10e120]: Followers
+                - generic [ref=f10e121]:
+                  - strong [ref=f10e122]: 403M
+                  - generic [ref=f10e123]: Likes
+            - generic [ref=f10e124]:
+              - button "Follow KOMBO" [ref=f10e126] [cursor=pointer]:
+                - generic [ref=f10e127]: Follow
+              - link [ref=f10e131] [cursor=pointer]:
+                - /url: /@ultimatekombo2
+                - button "Message" [ref=f10e133]
+              - button "Suggested accounts" [ref=f10e139] [cursor=pointer]
+              - button "Share" [ref=f10e146] [cursor=pointer]
+              - button "Actions" [ref=f10e153] [cursor=pointer]
+            - generic [ref=f10e159]:
+              - heading "OBI NDUKA KEVIN ultimatekombo28@gmail.com TELEGRAM 👇" [level=2] [ref=f10e160]
+              - link "t.me/kombofootball" [ref=f10e162] [cursor=pointer]:
+                - /url: https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=https%3A%2F%2Ft.me%2Fkombofootball
+          - generic:
+            - button "Actions"
+        - generic [ref=f10e167]:
+          - generic [ref=f10e168]:
+            - paragraph [ref=f10e170] [cursor=pointer]: Suggested accounts
+            - button "View All" [ref=f10e173] [cursor=pointer]:
+              - paragraph [ref=f10e174]: View all
+          - generic [ref=f10e175]:
+            - generic [ref=f10e176]:
+              - link [ref=f10e177] [cursor=pointer]:
+                - /url: /@andrewemily16
+                - img "Avatar for andrewemily16" [ref=f10e179]
+              - generic [ref=f10e181]:
+                - link [ref=f10e183] [cursor=pointer]:
+                  - /url: /@andrewemily16
+                  - paragraph [ref=f10e185]: alex
+                - paragraph [ref=f10e188] [cursor=pointer]: 18.4M followers
+              - button "Follow alex" [ref=f10e191] [cursor=pointer]:
+                - generic [ref=f10e192]: Follow
+            - generic [ref=f10e196]:
+              - link [ref=f10e197] [cursor=pointer]:
+                - /url: /@purplespeedy
+                - img "Avatar for purplespeedy" [ref=f10e199]
+              - generic [ref=f10e201]:
+                - link [ref=f10e203] [cursor=pointer]:
+                  - /url: /@purplespeedy
+                  - paragraph [ref=f10e205]: Speedy💜🌹
+                - paragraph [ref=f10e212] [cursor=pointer]: 18M followers
+              - button "Follow Speedy💜🌹" [ref=f10e215] [cursor=pointer]:
+                - generic [ref=f10e216]: Follow
+            - generic [ref=f10e220]:
+              - link [ref=f10e221] [cursor=pointer]:
+                - /url: /@ebuka.hero
+                - img "Avatar for ebuka.hero" [ref=f10e223]
+              - generic [ref=f10e225]:
+                - link [ref=f10e227] [cursor=pointer]:
+                  - /url: /@ebuka.hero
+                  - paragraph [ref=f10e229]: Ebuka Hero
+                - paragraph [ref=f10e232] [cursor=pointer]: 15.8M followers
+              - button "Follow Ebuka Hero" [ref=f10e235] [cursor=pointer]:
+                - generic [ref=f10e236]: Follow
+            - generic [ref=f10e240]:
+              - link [ref=f10e241] [cursor=pointer]:
+                - /url: /@realpeller
+                - img "Avatar for realpeller" [ref=f10e243]
+              - generic [ref=f10e245]:
+                - link [ref=f10e247] [cursor=pointer]:
+                  - /url: /@realpeller
+                  - paragraph [ref=f10e249]: ₱ɆⱠⱠɆⱤ
+                - paragraph [ref=f10e256] [cursor=pointer]: 15.8M followers
+              - button "Follow ₱ɆⱠⱠɆⱤ" [ref=f10e259] [cursor=pointer]:
+                - generic [ref=f10e260]: Follow
+            - generic [ref=f10e264]:
+              - link [ref=f10e265] [cursor=pointer]:
+                - /url: /@crispdal
+                - img "Avatar for crispdal" [ref=f10e267]
+              - generic [ref=f10e269]:
+                - link [ref=f10e271] [cursor=pointer]:
+                  - /url: /@crispdal
+                  - paragraph [ref=f10e273]: Crispdal
+                - paragraph [ref=f10e280] [cursor=pointer]: 13.5M followers
+              - button "Follow Crispdal" [ref=f10e283] [cursor=pointer]:
+                - generic [ref=f10e284]: Follow
+            - generic [ref=f10e288]:
+              - link [ref=f10e289] [cursor=pointer]:
+                - /url: /@youngalajerh8
+                - img "Avatar for youngalajerh8" [ref=f10e291]
+              - generic [ref=f10e293]:
+                - link [ref=f10e295] [cursor=pointer]:
+                  - /url: /@youngalajerh8
+                  - paragraph [ref=f10e297]: Young Alajerh ✨💸
+                - paragraph [ref=f10e304] [cursor=pointer]: 12.8M followers
+              - button "Follow Young Alajerh ✨💸" [ref=f10e307] [cursor=pointer]:
+                - generic [ref=f10e308]: Follow
+            - generic [ref=f10e312]:
+              - link [ref=f10e313] [cursor=pointer]:
+                - /url: /@blackchully3
+                - img "Avatar for blackchully3" [ref=f10e315]
+              - generic [ref=f10e317]:
+                - link [ref=f10e319] [cursor=pointer]:
+                  - /url: /@blackchully3
+                  - paragraph [ref=f10e321]: Blackchully scorpion
+                - paragraph [ref=f10e328] [cursor=pointer]: 12.5M followers
+              - button "Follow Blackchully scorpion" [ref=f10e331] [cursor=pointer]:
+                - generic [ref=f10e332]: Follow
+            - generic [ref=f10e336]:
+              - link [ref=f10e337] [cursor=pointer]:
+                - /url: /@afroblueries
+                - img "Avatar for afroblueries" [ref=f10e339]
+              - generic [ref=f10e341]:
+                - link [ref=f10e343] [cursor=pointer]:
+                  - /url: /@afroblueries
+                  - paragraph [ref=f10e345]: afroblueries
+                - paragraph [ref=f10e348] [cursor=pointer]: 12.4M followers
+              - button "Follow afroblueries" [ref=f10e351] [cursor=pointer]:
+                - generic [ref=f10e352]: Follow
+            - generic [ref=f10e356]:
+              - link [ref=f10e357] [cursor=pointer]:
+                - /url: /@brainjotter
+                - img "Avatar for brainjotter" [ref=f10e359]
+              - generic [ref=f10e361]:
+                - link [ref=f10e363] [cursor=pointer]:
+                  - /url: /@brainjotter
+                  - paragraph [ref=f10e365]: Chukwuebuka
+                - paragraph [ref=f10e372] [cursor=pointer]: 12.1M followers
+              - button "Follow Chukwuebuka" [ref=f10e375] [cursor=pointer]:
+                - generic [ref=f10e376]: Follow
+            - generic [ref=f10e380]:
+              - link [ref=f10e381] [cursor=pointer]:
+                - /url: /@machigoldpranks_
+                - img "Avatar for machigoldpranks_" [ref=f10e383]
+              - generic [ref=f10e385]:
+                - link [ref=f10e387] [cursor=pointer]:
+                  - /url: /@machigoldpranks_
+                  - paragraph [ref=f10e389]: MACHIGOLDPRANKS
+                - paragraph [ref=f10e396] [cursor=pointer]: 11.8M followers
+              - button "Follow MACHIGOLDPRANKS" [ref=f10e399] [cursor=pointer]:
+                - generic [ref=f10e400]: Follow
+            - generic [ref=f10e404]:
+              - link [ref=f10e405] [cursor=pointer]:
+                - /url: /@annie.koncept8
+                - img "Avatar for annie.koncept8" [ref=f10e407]
+              - generic [ref=f10e409]:
+                - link [ref=f10e411] [cursor=pointer]:
+                  - /url: /@annie.koncept8
+                  - paragraph [ref=f10e413]: ANNIE KONCEPT
+                - paragraph [ref=f10e416] [cursor=pointer]: 11.3M followers
+              - button "Follow ANNIE KONCEPT" [ref=f10e419] [cursor=pointer]:
+                - generic [ref=f10e420]: Follow
+            - generic [ref=f10e424]:
+              - link [ref=f10e425] [cursor=pointer]:
+                - /url: /@ebuka.hero306
+                - img "Avatar for ebuka.hero306" [ref=f10e427]
+              - generic [ref=f10e429]:
+                - link [ref=f10e431] [cursor=pointer]:
+                  - /url: /@ebuka.hero306
+                  - paragraph [ref=f10e433]: Ebuka Hero
+                - paragraph [ref=f10e436] [cursor=pointer]: 11.2M followers
+              - button "Follow Ebuka Hero" [ref=f10e439] [cursor=pointer]:
+                - generic [ref=f10e440]: Follow
+            - generic [ref=f10e444]:
+              - link [ref=f10e445] [cursor=pointer]:
+                - /url: /@berby_picxy
+                - img "Avatar for berby_picxy" [ref=f10e447]
+              - generic [ref=f10e449]:
+                - link [ref=f10e451] [cursor=pointer]:
+                  - /url: /@berby_picxy
+                  - paragraph [ref=f10e453]: 𝕭𝖊𝖗𝖇𝖞 𝙥𝙞𝙘𝙭𝙮 💫 ♕ ♡
+                - paragraph [ref=f10e460] [cursor=pointer]: 10.7M followers
+              - button "Follow 𝕭𝖊𝖗𝖇𝖞 𝙥𝙞𝙘𝙭𝙮 💫 ♕ ♡" [ref=f10e463] [cursor=pointer]:
+                - generic [ref=f10e464]: Follow
+            - generic [ref=f10e468]:
+              - link [ref=f10e469] [cursor=pointer]:
+                - /url: /@ifeanyi.oleka.fam
+                - img "Avatar for ifeanyi.oleka.fam" [ref=f10e471]
+              - generic [ref=f10e473]:
+                - link [ref=f10e475] [cursor=pointer]:
+                  - /url: /@ifeanyi.oleka.fam
+                  - paragraph [ref=f10e477]: Ifeanyi Oleka movies
+                - paragraph [ref=f10e480] [cursor=pointer]: 10.7M followers
+              - button "Follow Ifeanyi Oleka movies" [ref=f10e483] [cursor=pointer]:
+                - generic [ref=f10e484]: Follow
+            - generic [ref=f10e488]:
+              - link [ref=f10e489] [cursor=pointer]:
+                - /url: /@jombospice
+                - img "Avatar for jombospice" [ref=f10e491]
+              - generic [ref=f10e493]:
+                - link [ref=f10e495] [cursor=pointer]:
+                  - /url: /@jombospice
+                  - paragraph [ref=f10e497]: user71114863843
+                - paragraph [ref=f10e500] [cursor=pointer]: 10.6M followers
+              - button "Follow user71114863843" [ref=f10e503] [cursor=pointer]:
+                - generic [ref=f10e504]: Follow
+            - generic [ref=f10e508]:
+              - link [ref=f10e509] [cursor=pointer]:
+                - /url: /@realjadrolita
+                - img "Avatar for realjadrolita" [ref=f10e511]
+              - generic [ref=f10e513]:
+                - link [ref=f10e515] [cursor=pointer]:
+                  - /url: /@realjadrolita
+                  - paragraph [ref=f10e517]: JARVIS AI
+                - paragraph [ref=f10e524] [cursor=pointer]: 10.1M followers
+              - button "Follow JARVIS AI" [ref=f10e527] [cursor=pointer]:
+                - generic [ref=f10e528]: Follow
+            - generic [ref=f10e532]:
+              - link [ref=f10e533] [cursor=pointer]:
+                - /url: /@romantikeyerealitytv
+                - img "Avatar for romantikeyerealitytv" [ref=f10e535]
+              - generic [ref=f10e537]:
+                - link [ref=f10e539] [cursor=pointer]:
+                  - /url: /@romantikeyerealitytv
+                  - paragraph [ref=f10e541]: Romantik Eye Reality TV
+                - paragraph [ref=f10e544] [cursor=pointer]: 9.9M followers
+              - button "Follow Romantik Eye Reality TV" [ref=f10e547] [cursor=pointer]:
+                - generic [ref=f10e548]: Follow
+            - generic [ref=f10e552]:
+              - link [ref=f10e553] [cursor=pointer]:
+                - /url: /@skinycomics
+                - img "Avatar for skinycomics" [ref=f10e555]
+              - generic [ref=f10e557]:
+                - link [ref=f10e559] [cursor=pointer]:
+                  - /url: /@skinycomics
+                  - paragraph [ref=f10e561]: Skinycomics
+                - paragraph [ref=f10e568] [cursor=pointer]: 9.7M followers
+              - button "Follow Skinycomics" [ref=f10e571] [cursor=pointer]:
+                - generic [ref=f10e572]: Follow
+            - generic [ref=f10e576]:
+              - link [ref=f10e577] [cursor=pointer]:
+                - /url: /@samskid_
+                - img "Avatar for samskid_" [ref=f10e579]
+              - generic [ref=f10e581]:
+                - link [ref=f10e583] [cursor=pointer]:
+                  - /url: /@samskid_
+                  - paragraph [ref=f10e585]: Samskid 💀
+                - paragraph [ref=f10e592] [cursor=pointer]: 9.5M followers
+              - button "Follow Samskid 💀" [ref=f10e595] [cursor=pointer]:
+                - generic [ref=f10e596]: Follow
+            - generic [ref=f10e600]:
+              - link [ref=f10e601] [cursor=pointer]:
+                - /url: /@officialemanuella
+                - img "Avatar for officialemanuella" [ref=f10e603]
+              - generic [ref=f10e605]:
+                - link [ref=f10e607] [cursor=pointer]:
+                  - /url: /@officialemanuella
+                  - paragraph [ref=f10e609]: Emanuella
+                - paragraph [ref=f10e616] [cursor=pointer]: 9.3M followers
+              - button "Follow Emanuella" [ref=f10e619] [cursor=pointer]:
+                - generic [ref=f10e620]: Follow
+      - generic [ref=f10e629]:
+        - generic [ref=f10e630]:
+          - generic [ref=f10e631]:
+            - tab "Videos" [selected] [ref=f10e632] [cursor=pointer]
+            - tab "Liked" [ref=f10e636] [cursor=pointer]
+          - generic [ref=f10e642]:
+            - button "Latest" [ref=f10e643] [cursor=pointer]
+            - button "Popular" [ref=f10e646] [cursor=pointer]
+            - button "Oldest" [ref=f10e649] [cursor=pointer]
+        - generic [ref=f10e652]:
+          - paragraph [ref=f10e653]: Playlists
+          - generic [ref=f10e655]:
+            - link [ref=f10e656] [cursor=pointer]:
+              - /url: /@ultimatekombo2/playlist/UCL%20TEAM%20OF%20THE%20WEEK-7552149466812582674
+              - generic [ref=f10e660]:
+                - paragraph [ref=f10e661]: UCL TEAM OF THE WEEK
+                - paragraph [ref=f10e662]: 6 posts
+            - link [ref=f10e663] [cursor=pointer]:
+              - /url: /@ultimatekombo2/playlist/EPL%20TOP%206%20WEEKLY%20XI-7542890407664651026
+              - generic [ref=f10e667]:
+                - paragraph [ref=f10e668]: EPL TOP 6 WEEKLY XI
+                - paragraph [ref=f10e669]: 14 posts
+            - link [ref=f10e670] [cursor=pointer]:
+              - /url: /@ultimatekombo2/playlist/LA%20LIGA%20WEEKLY%20TOP%205-7542877323533748999
+              - generic [ref=f10e674]:
+                - paragraph [ref=f10e675]: LA LIGA WEEKLY TOP 5
+                - paragraph [ref=f10e676]: 13 posts
+            - link [ref=f10e677] [cursor=pointer]:
+              - /url: /@ultimatekombo2/playlist/PREACHING%20MESSI-7280168495542749957
+              - generic [ref=f10e681]:
+                - paragraph [ref=f10e682]: PREACHING MESSI
+                - paragraph [ref=f10e683]: 20 posts
+          - paragraph [ref=f10e687]: Videos
+        - generic [ref=f10e689]:
+          - button "Watch in full screen" [ref=f10e691] [cursor=pointer]:
+            - link "KOMBO is now officially on YouTube Please before you subscribe look very well and make sure it is my Offical page KOMBO’S DIARY created by KOMBO with KOMBO’s original sound 2.6M Pinned" [ref=f10e694]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7640178776210443540
+              - generic [ref=f10e695]:
+                - img "KOMBO is now officially on YouTube Please before you subscribe look very well and make sure it is my Offical page KOMBO’S DIARY created by KOMBO with KOMBO’s original sound" [ref=f10e699]
+                - strong [ref=f10e705]: 2.6M
+              - generic [ref=f10e706]: Pinned
+          - button "Watch in full screen" [ref=f10e710] [cursor=pointer]:
+            - link [ref=f10e713]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7666039574468021522
+              - generic [ref=f10e714]:
+                - 'img "Maxence Lacroix to Chelsea DONE DEAL #cfc #xabialonso #premierleague created by KOMBO with KOMBO’s original sound" [ref=f10e718]'
+                - strong [ref=f10e722]: 30.2K
+          - button "Watch in full screen" [ref=f10e724] [cursor=pointer]:
+            - link [ref=f10e727]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665841838393281799
+              - generic [ref=f10e728]:
+                - 'img "Rafael Leao to Arsenal who says No? #arsenal #acmilan created by KOMBO with KOMBO’s original sound" [ref=f10e732]'
+                - strong [ref=f10e736]: 177.1K
+          - button "Watch in full screen" [ref=f10e738] [cursor=pointer]:
+            - link [ref=f10e741]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665834863794228487
+              - generic [ref=f10e742]:
+                - 'img "Benjamin SESKO is coming fully prepared for The Premier League Defenders #manutd created by KOMBO with KOMBO’s original sound" [ref=f10e746]'
+                - strong [ref=f10e750]: 615K
+          - button "Watch in full screen" [ref=f10e752] [cursor=pointer]:
+            - link [ref=f10e755]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665829404316011784
+              - generic [ref=f10e756]:
+                - 'img "Elliot Anderson says Manchester City are the Kings of Manchester #manutd #premierleague created by KOMBO with KOMBO’s original sound" [ref=f10e760]'
+                - strong [ref=f10e764]: 122.3K
+          - button "Watch in full screen" [ref=f10e766] [cursor=pointer]:
+            - link [ref=f10e769]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665818794987719943
+              - generic [ref=f10e770]:
+                - 'img "Bruno Guimaraes has agreed Personal Terms with Arsenal #afc #transfers #ruleyourkingdom created by KOMBO with KOMBO’s original sound" [ref=f10e774]'
+                - strong [ref=f10e778]: 200.7K
+          - button "Watch in full screen" [ref=f10e780] [cursor=pointer]:
+            - link [ref=f10e783]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665727708046839047
+              - generic [ref=f10e784]:
+                - 'img "Karim ADEYEMI AND Anthony Gordon are not just Attacking Reinforcement but also Defensive Cover #barca created by KOMBO with KOMBO’s original sound" [ref=f10e788]'
+                - strong [ref=f10e792]: 318.8K
+          - button "Watch in full screen" [ref=f10e794] [cursor=pointer]:
+            - link [ref=f10e797]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665720754129947911
+              - generic [ref=f10e798]:
+                - 'img "Christos TZOLIS deal to Arsenal and Karim ADEYEMI deal to Barcelona Completed #transfers created by KOMBO with KOMBO’s original sound" [ref=f10e802]'
+                - strong [ref=f10e806]: 279.3K
+          - button "Watch in full screen" [ref=f10e808] [cursor=pointer]:
+            - link [ref=f10e811]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665714579707710738
+              - generic [ref=f10e812]:
+                - 'img "World Champion PEDRI was very Good at the 2026 World Cup the Numbers do not lie #barca #spain created by KOMBO with KOMBO’s original sound" [ref=f10e816]'
+                - strong [ref=f10e820]: 236.9K
+          - button "Watch in full screen" [ref=f10e822] [cursor=pointer]:
+            - link [ref=f10e825]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665676616156253447
+              - generic [ref=f10e826]:
+                - 'img "A story of 2 Men trying to buy a private Jet watch till the End so you can understand the story properly #kombo created by KOMBO with KOMBO’s original sound" [ref=f10e830]'
+                - strong [ref=f10e834]: 411.6K
+          - button "Watch in full screen" [ref=f10e836] [cursor=pointer]:
+            - link [ref=f10e839]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665668999472008456
+              - generic [ref=f10e840]:
+                - 'img "Luis Suarez scores twice for Inter Miami as LEWANDOWSKI and GRIEZMANN get their Debut #vozinha #MLS created by KOMBO with KOMBO’s original sound" [ref=f10e844]'
+                - strong [ref=f10e848]: 432.8K
+          - button "Watch in full screen" [ref=f10e850] [cursor=pointer]:
+            - link [ref=f10e853]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665420733220146450
+              - generic [ref=f10e854]:
+                - 'img "CASEMIRO has been officially Unveiled as new inter Miami player #messi #mls created by KOMBO with KOMBO’s original sound" [ref=f10e858]'
+                - strong [ref=f10e862]: 232.5K
+          - button "Watch in full screen" [ref=f10e864] [cursor=pointer]:
+            - link [ref=f10e867]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665411536403369223
+              - generic [ref=f10e868]:
+                - 'img "Barcelona Pre Season Calendar #barca #fcb created by KOMBO with KOMBO’s original sound" [ref=f10e872]'
+                - strong [ref=f10e876]: 203.9K
+          - button "Watch in full screen" [ref=f10e878] [cursor=pointer]:
+            - link [ref=f10e881]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665402020311895314
+              - generic [ref=f10e882]:
+                - 'img "GARNACHO to Aston Villa on Loan Done Deal #chelsea #morganrogers created by KOMBO with KOMBO’s original sound" [ref=f10e886]'
+                - strong [ref=f10e890]: 234.7K
+          - button "Watch in full screen" [ref=f10e892] [cursor=pointer]:
+            - link [ref=f10e895]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665395712389139719
+              - generic [ref=f10e896]:
+                - 'img "The Greatest of All Time Makes it to the FIFA World Cup team if the tournament for the 3rd time 2014, 2022 and 2026 #messi #vozinha created by KOMBO with KOMBO’s original sound" [ref=f10e900]'
+                - strong [ref=f10e904]: 328.3K
+          - button "Watch in full screen" [ref=f10e906] [cursor=pointer]:
+            - link [ref=f10e909]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665331085764529415
+              - generic [ref=f10e910]:
+                - 'img "Chelsea keep adding Manchester City Academy PLAYERS to their squad #MorganRogers #cfc created by KOMBO with KOMBO’s original sound" [ref=f10e914]'
+                - strong [ref=f10e918]: 233.9K
+          - button "Watch in full screen" [ref=f10e920] [cursor=pointer]:
+            - link [ref=f10e923]:
+              - /url: https://www.tiktok.com/@ultimatekombo2/video/7665323675977141512
+              - generic [ref=f10e924]:
+                - 'img "KYLIAN Mbappe might have made a very huge mistake going to Real Madrid YAMAL has had a better career than him since he moved to Madrid #barca #madrid created by KOMBO with KOMBO’s original sound" [ref=f10e928]'
+                - strong [ref=f10e932]: 314.6K
+    - generic [ref=f10e936]:
+      - button [ref=f10e939] [cursor=pointer]
+      - button [ref=f10e946] [cursor=pointer]
+      - button "Log in" [ref=f10e953] [cursor=pointer]

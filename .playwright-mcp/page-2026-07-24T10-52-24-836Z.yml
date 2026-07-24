@@ -1,0 +1,27 @@
+- generic [ref=f19e3]:
+  - generic [ref=f19e37]:
+    - generic [ref=f19e41]:
+      - generic [ref=f19e42]:
+        - generic [ref=f19e44]:
+          - heading "Adika" [level=1] [ref=f19e46]
+          - heading "adika.s.takes" [level=2] [ref=f19e48]
+        - heading "415 Following 1.8M Followers 194.3M Likes" [level=3] [ref=f19e49]:
+          - generic [ref=f19e50] [cursor=pointer]:
+            - strong [ref=f19e51]: "415"
+            - generic [ref=f19e52]: Following
+          - generic [ref=f19e53] [cursor=pointer]:
+            - strong [ref=f19e54]: 1.8M
+            - generic [ref=f19e55]: Followers
+          - generic [ref=f19e56]:
+            - strong [ref=f19e57]: 194.3M
+            - generic [ref=f19e58]: Likes
+      - generic [ref=f19e64]:
+        - heading "Get your original quality jerseys 👇🏿 FOR BUSINESS ONLY 📧:adikawebservices@gmail.com" [level=2] [ref=f19e65]
+        - link "adikastakes.store" [ref=f19e67] [cursor=pointer]:
+          - /url: https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=https%3A%2F%2Fadikastakes.store
+    - generic:
+      - button "Actions"
+  - generic [ref=f19e103]:
+    - button [ref=f19e106] [cursor=pointer]
+    - button [ref=f19e113] [cursor=pointer]
+    - button "Log in" [ref=f19e120] [cursor=pointer]

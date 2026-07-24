@@ -1,0 +1,27 @@
+- generic [ref=f28e3]:
+  - generic [ref=f28e37]:
+    - generic [ref=f28e41]:
+      - generic [ref=f28e42]:
+        - generic [ref=f28e44]:
+          - heading "playwithtomide_" [level=1] [ref=f28e46]
+          - heading "playwithtomide_" [level=2] [ref=f28e48]
+        - heading "236 Following 174.4K Followers 6.4M Likes" [level=3] [ref=f28e49]:
+          - generic [ref=f28e50] [cursor=pointer]:
+            - strong [ref=f28e51]: "236"
+            - generic [ref=f28e52]: Following
+          - generic [ref=f28e53] [cursor=pointer]:
+            - strong [ref=f28e54]: 174.4K
+            - generic [ref=f28e55]: Followers
+          - generic [ref=f28e56]:
+            - strong [ref=f28e57]: 6.4M
+            - generic [ref=f28e58]: Likes
+      - generic [ref=f28e64]:
+        - heading "No 1 gamer influencer in Nigeria. For business 📩 Playwithtomide@gmail.com" [level=2] [ref=f28e65]
+        - link "MiniStats.ai/?src=PlayWithTomide" [ref=f28e67] [cursor=pointer]:
+          - /url: https://www.tiktok.com/link/v2?aid=1988&lang=en&scene=bio_url&target=MiniStats.ai%2F%3Fsrc%3DPlayWithTomide
+    - generic:
+      - button "Actions"
+  - generic [ref=f28e103]:
+    - button [ref=f28e106] [cursor=pointer]
+    - button [ref=f28e113] [cursor=pointer]
+    - button "Log in" [ref=f28e120] [cursor=pointer]
