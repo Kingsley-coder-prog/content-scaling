@@ -91,6 +91,7 @@ Full 30+ hook bank in TEMPLATES.md.
 - **Audio:** ALWAYS your own voice/original sound. Occasionally layer a quiet trending track under the voiceover, but the voice leads.
 - **Hashtags:** tight mix — 1–2 niche (#fcbarcelona #culers), 1–2 mid (#laliga #footballtiktok), 1 broad (#football). Drop the reflexive `#creatorsearchinsights` on everything; use sparingly.
 - **Cadence:** **3–5 quality posts/day**, with **at least 1 daily "swing"** (hot take or live reaction). This beats 10 low-signal posts — the winners post fewer, sharper, own-voice takes.
+- **Posting times:** followers peak **9 PM–12 AM WAT** (which also = US afternoon / UK evening). Put the best post at ~11 PM; space others through the day; react instantly to news any hour. Full timing + algorithm guide in [ALGORITHM-AND-TIMING.md](ALGORITHM-AND-TIMING.md).
 - **Series discipline:** run named weekly series and group them into TikTok playlists (KOMBO's tactic).
 
 ---
