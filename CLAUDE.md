@@ -10,6 +10,32 @@ Primary platform: **TikTok**. Everything is built so it can later be repurposed 
 
 ---
 
+# 0. News Sourcing & Freshness (READ FIRST — non-negotiable)
+
+**The problem this fixes:** content ideas have gone stale and repetitive — recycling the same angles and naming players who have **already left the club** (e.g. talking about Lewandowski as if he's still a Barça player). Root cause: leaning on stale training memory instead of checking what actually happened in the **last 24 hours**. Never do this again.
+
+**The hard rules:**
+
+1. **Never state a squad, transfer, result, table or injury fact from memory.** Your training data is months out of date. Every content idea must be grounded in a **real, datable story from the last 24 hours (48h max for a slow news day)**, verified *live* with WebSearch/WebFetch **at drafting time**. If you can't source it, don't post it.
+2. **Verify the current squad before naming any player.** Confirm the player is *actually at the club right now* before building a take around him. Do **not** reference players who have transferred out, retired, or are on loan. If you're unsure whether someone is still at Barça — check first.
+3. **Don't repeat yesterday's angle.** Before drafting, review the last 2–3 days of slates and avoid the same story, same player, same take. Each day must feel fresh. Lead with what is *new* today.
+
+**Scope — widen the net (still Barça-first):** cover BOTH, every day —
+- **(a) FC Barcelona news:** matches, ratings, transfers in/out, official club statements, injuries, Yamal/La Masia, board/coach news.
+- **(b) The biggest trending football stories worldwide in the last 24h:** breaking transfers, tactics & analysis, official club statements, standout results, controversies, big-name injuries.
+- Barça is still the **lens and the bias** — take a Culé's angle on the big non-Barça stories (what it means for Barça, who we should sign, why our rival is overrated, etc.). We widen the *net*, not the *identity*.
+
+**Primary sources — check these first, every run** (then corroborate with other authentic, reliable outlets as needed):
+- **Fabrizio Romano** — transfers (the "here we go" standard)
+- **Gerard Romero / Jijantes FC** — Barça-specific breaking news
+- **Barça Blaugranes**, **BarçaUniversal**, **barcacentre** — Barça news & context
+- **Sofascore** — stats, ratings, results
+- **The Athletic FC (@TheAthleticFC)** and **David Ornstein (@David_Ornstein)** — tier-1 verified reporting
+
+Prefer **official club statements and tier-1 reporters** over rumour mills and aggregators. When two sources conflict, trust the tier-1 reporter and say the story is developing. If a hot take rests on a fact, that fact must trace back to one of the sources above.
+
+---
+
 # 1. Account Identity & Persona
 
 **The one-line positioning:** *The Culé's voice — passionate, opinionated Barça-first analysis you actually want to argue with.*
