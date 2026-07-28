@@ -26,12 +26,15 @@ Primary platform: **TikTok**. Everything is built so it can later be repurposed 
 - **(b) The biggest trending football stories worldwide in the last 24h:** breaking transfers, tactics & analysis, official club statements, standout results, controversies, big-name injuries.
 - Barça is still the **lens and the bias** — take a Culé's angle on the big non-Barça stories (what it means for Barça, who we should sign, why our rival is overrated, etc.). We widen the *net*, not the *identity*.
 
-**Primary sources — check these first, every run** (then corroborate with other authentic, reliable outlets as needed):
-- **Fabrizio Romano** — transfers (the "here we go" standard)
-- **Gerard Romero / Jijantes FC** — Barça-specific breaking news
-- **Barça Blaugranes**, **BarçaUniversal**, **barcacentre** — Barça news & context
-- **Sofascore** — stats, ratings, results
-- **The Athletic FC (@TheAthleticFC)** and **David Ornstein (@David_Ornstein)** — tier-1 verified reporting
+**Primary sources — the account set to track, every run** (X/Twitter handles supplied by the creator):
+- **Fabrizio Romano** (@FabrizioRomano) — transfers, the "here we go" standard
+- **David Ornstein** (@David_Ornstein) — tier-1 verified reporting
+- **Gerard Romero** (@gerardromero) / **Jijantes FC** (@JijantesFC) — Barça-specific breaking news
+- **BarçaUniversal** (@BarcaUniversal), **BarçaTimes** (@BarcaTimes), **Managing Barça** (@ManagingBarca) — Barça news & context
+- **FC Barcelona official** (@FCBarcelona) — official club statements
+- Plus **Sofascore** (stats/ratings) and **Barça Blaugranes** for corroboration.
+
+**How to use them (important):** X/Twitter profile pages **cannot be scraped directly** (login wall → 402/403). Do NOT try to fetch `x.com/<handle>` pages. Instead **search for these names/handles by name** with WebSearch — that surfaces their latest reporting (individual tweet URLs that got indexed, plus reliable outlets quoting them) — then corroborate. A story is strongest when a tier-1 reporter above is the origin.
 
 Prefer **official club statements and tier-1 reporters** over rumour mills and aggregators. When two sources conflict, trust the tier-1 reporter and say the story is developing. If a hot take rests on a fact, that fact must trace back to one of the sources above.
 
